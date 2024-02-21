@@ -1,4 +1,5 @@
 HR-Analytics-Power-BI-Project
+
 To develop a Data Analytics Dashboard utilizing Power BI to extract valuable insights, uncover trends and patterns, facilitate business decision-making, and promote employee well-being
 
 Excited to announce my successful completion of one of project using Power BI.
