@@ -31,5 +31,6 @@ Kindly reach out to me at abhishekrcks1995@gmail.com
 Want to connect with me? Check out these links:👉
 
 👉LinkedIn: https://lnkd.in/ewnTuds9
+👉Github: https://github.com/Abhishek14011995/HR-Analytics-Power-BI-Project
 
 Looking forward to more data-driven projects with Power BI!
